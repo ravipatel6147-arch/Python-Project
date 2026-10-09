@@ -1,1 +1,6 @@
-print("hello github!")
+a = [5,10,15,20,25]
+k = 1
+i = a[1]+4
+j = a[2]+1
+m = a[k+1]
+print(i,j,m)
